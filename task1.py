@@ -25,4 +25,4 @@ def sum_ood_elements(lst):
 N = int(input('Сколько чисел будет в массиве: '))
 lst1 = fill_list(N)
 print(lst1)
-print(sum_ood_elements(lst1))
+print('Сумма равна:', sum_ood_elements(lst1))
